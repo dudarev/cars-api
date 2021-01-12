@@ -1,0 +1,10 @@
+*.zip
+*.db
+
+.idea
+.python-version
+.pytest_cache
+__pycache__
+
+data
+README_original.md
